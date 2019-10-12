@@ -10,7 +10,7 @@ interface ICarDrive {
 }
 
 class CarXProxy implements ICarDrive {
-    CarX carX;
+    private CarX carX;
 
     CarXProxy(CarX carX) {
         this.carX = carX;

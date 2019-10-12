@@ -18,7 +18,7 @@ interface ITrack {
 }
 
 class TrackAdapter implements ICar {
-    ITrack track;
+    private ITrack track;
 
     TrackAdapter(ITrack track) {
         this.track = track;
@@ -32,7 +32,7 @@ class TrackAdapter implements ICar {
 
 class Car {
 
-    public void washCar(@NotNull ICar car) {
+    void washCar(@NotNull ICar car) {
         car.wash();
     }
 }
