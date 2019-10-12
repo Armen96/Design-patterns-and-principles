@@ -1,2 +1,3 @@
-java/.idea
-java/production
+/java/.idea
+/java/production
+.idea/.gitignore
