@@ -1,6 +1,8 @@
 # Design patterns and principles 
 
-Languages PHP (dynamic programing language) and Java (static programing language)
+# Languages
+ - PHP (dynamic programming language) 
+ - Java (static programming language)
 
 PHP
  - Adapter
@@ -10,3 +12,13 @@ PHP
  - Proxy
  - Singleton
  - Strategy
+
+Java 
+ - Adapter
+ - Proxy
+ - Singleton
+
+
+
+# Design principles 
+ - SOLID
