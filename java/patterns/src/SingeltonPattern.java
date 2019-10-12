@@ -10,7 +10,6 @@ public class SingeltonPattern {
 }
 
 class Singelton {
-
     int counter = 0;
     private static Singelton instance = new Singelton();
     private Singelton() {
