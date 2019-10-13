@@ -15,8 +15,10 @@ PHP
 
 Java 
  - Adapter
- - Proxy
+ - Proxy (Remote, Virtual, Protected)
  - Singleton
+ - Factory
+ - Abstract Factory
 
 
 
