@@ -19,6 +19,7 @@ Java
  - Singleton
  - Factory
  - Abstract Factory
+ - Iterator
 
 
 
