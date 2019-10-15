@@ -20,6 +20,7 @@ Java
  - Factory
  - Abstract Factory
  - Iterator
+ - Command
 
 
 
