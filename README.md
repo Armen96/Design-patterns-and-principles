@@ -21,6 +21,7 @@ Java
  - Abstract Factory
  - Iterator
  - Command
+ - Decorator
 
 
 
