@@ -22,6 +22,7 @@ Java
  - Iterator
  - Command
  - Decorator
+ - Chain of Responsibility 
 
 
 
