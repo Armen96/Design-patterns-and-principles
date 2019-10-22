@@ -37,7 +37,7 @@ class FacebookAdapter implements ISocialMediaAdapter
 
 $fb = new FacebookAdapter(new Facebook());
 
-$message = "Some message";
+$message = "Some message ...";
 
 //...
 

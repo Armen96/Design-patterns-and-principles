@@ -105,7 +105,6 @@ class AbstractFactoryTank implements ICarOrTank {
     }
 }
 
-// Abstract Factory
 interface AbsFactoryCreate {
     ICarOrTank create(String type);
 }
